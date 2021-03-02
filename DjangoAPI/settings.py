@@ -28,8 +28,8 @@ SECRET_KEY = config("SECRET_KEY")
 DEBUG = config("DEBUG")
 
 ALLOWED_HOSTS = [
-   'api-django-nextjs.herokuapp.com',
-
+    'api-django-nextjs.herokuapp.com',
+    'django-api.ryuya.uk',
 ]
 
 
