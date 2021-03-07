@@ -13,8 +13,9 @@
 
 - Blog data
 - Todo data
-
-
+  
+    
+※SSL認証が通らないため、herokuオリジナルのURLになってます
 <details><summary>info</summary>
 
 ID: u30934
