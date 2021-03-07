@@ -29,7 +29,7 @@ DEBUG = config("DEBUG")
 
 ALLOWED_HOSTS = [
     'api-django-nextjs.herokuapp.com',
-    'www.django-api.ryuya.uk',
+    'django-api.ryuya.uk',
 ]
 
 
