@@ -61,7 +61,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
-    'http://hp-django-api.ryuya.uk',
+    'https://hp-django-api.ryuya.uk',
 ]
 
 SIMPLE_JWT = {
