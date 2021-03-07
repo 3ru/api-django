@@ -29,7 +29,7 @@ DEBUG = config("DEBUG")
 
 ALLOWED_HOSTS = [
     'api-django-nextjs.herokuapp.com',
-    'django-api.ryuya.uk',
+    'www.django-api.ryuya.uk',
 ]
 
 
@@ -60,10 +60,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'http://127.0.0.1:8000',
     'http://localhost:3000/',
     'http://hp-django-api.ryuya.uk/',
-    'https://hp-django-api.vercel.app/',
 ]
 
 SIMPLE_JWT = {
